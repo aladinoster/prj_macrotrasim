@@ -6,6 +6,10 @@
 
 Project on traffic light control
 
+### Base functions 
+
+All functionalities are implemented in the following package [macrotrasim](https://github.com/aladinoster/macrotrasim)
+
 ## Reproducibility
 
 Download this repository
